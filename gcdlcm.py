@@ -7,3 +7,4 @@ for i in range(1,a+1):
 l=int(a*b/c)
 print(c)
 print(l)
+print(b)
